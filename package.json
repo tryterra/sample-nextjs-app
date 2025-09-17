@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@tryterra/terra-ui": "^0.1.0",
-    "axios": "^1.5.1",
+    "axios": "^1.12.0",
     "encoding": "^0.1.13",
     "install": "^0.13.0",
     "next": "13.5.6",
